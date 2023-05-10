@@ -1,0 +1,13 @@
+{
+    "name": "Freetube Redirect",
+    "version": "1.0",
+    "description": "Redirect YouTube URLs to Freetube app",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": [
+        "activeTab",
+        "webNavigation"
+    ]
+}
