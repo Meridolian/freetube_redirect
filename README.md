@@ -10,3 +10,5 @@ This is a minimalist but functional chrome extension which redirect youtube urls
  - Select this current folder
 
 Enjoy Youtube with privacy :)
+
+PS : It's working fine for me on Arch + Hyprland, don't hesitate to open issues if it does not work on your OS.
