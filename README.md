@@ -4,6 +4,7 @@ This is a minimalist but functional chrome extension which redirect youtube urls
 
 ## Installation
 
+ - Clone this repository or download the latest release, then unzip it in the folder you want
  - Go to your extension manager
  - Enable developer mode
  - Click on "load unpacked extension"
